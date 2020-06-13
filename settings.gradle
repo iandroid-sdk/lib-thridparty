@@ -1,0 +1,3 @@
+rootProject.name='thirdParty'
+include ':app'
+include ':lib_thirdparty'
